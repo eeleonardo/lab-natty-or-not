@@ -41,7 +41,7 @@ Foi um vídeo simples (não tenho experiência com edição de vídeo). FIquei s
 ## 💭 Reflexão (Opcional)
 A geração de imagens se mostrou a atividade onde o dóminio da elaboração do prompt se mostrou determinante,
 ```
-
+Link do Vídeo: https://youtube.com/shorts/aUd5zrjR2vQ
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
