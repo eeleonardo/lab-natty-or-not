@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Uso de IA Generativas para auxílio em pesquisas científicas.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo curto comentando sobre como a IA pode ajudar em pesquisar científicas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para gerar o roteiro do vídeo.
+D-id para gerar o avatar e a fala.
+Canva para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Enviei o seguinte prompt para o ChatGPT "Crie o roteiro de uma vídeo de 1 minuto onde descrevo as vantagens do uso de Inteligência Artificial Generativa para a produção de pesquisas científicas".
+Com o roteiro selecionado coloquei as falas no D-ID para gerar a voz usando um avatar disponível no pacote grátis. 
+Tentei gerar imagens usando o ChatGPT e o Copilot usando como descrição as cenas do roteiro gerado incialmente mas as informações do prompt não foram suficiente para gerar imagens que atendessem a necessidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi um vídeo simples (não tenho experiência com edição de vídeo). FIquei surpreso com a facilidade de gerar o roteiro e transformar em áudio.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A geração de imagens se mostrou a atividade onde o dóminio da elaboração do prompt se mostrou determinante,
 ```
 
 ### Exemplos e Insigths
